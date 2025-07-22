@@ -14,7 +14,7 @@
     "react-loading-screen": "0.0.17",
     "react-redux": "^7.2.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "reactstrap": "^8.5.1",
     "reactstrap-alert": "0.0.4",
     "redux": "^4.0.5",
